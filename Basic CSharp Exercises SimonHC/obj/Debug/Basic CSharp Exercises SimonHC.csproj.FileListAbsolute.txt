@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\Basic CSharp Exercises SimonHC\Basic CSharp Exercises SimonHC\bin\Debug\Basic CSharp Exercises SimonHC.exe.config
+C:\Users\Simon\source\repos\Basic CSharp Exercises SimonHC\Basic CSharp Exercises SimonHC\bin\Debug\Basic CSharp Exercises SimonHC.exe
+C:\Users\Simon\source\repos\Basic CSharp Exercises SimonHC\Basic CSharp Exercises SimonHC\bin\Debug\Basic CSharp Exercises SimonHC.pdb
+C:\Users\Simon\source\repos\Basic CSharp Exercises SimonHC\Basic CSharp Exercises SimonHC\obj\Debug\Basic CSharp Exercises SimonHC.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Basic CSharp Exercises SimonHC\Basic CSharp Exercises SimonHC\obj\Debug\Basic CSharp Exercises SimonHC.exe
+C:\Users\Simon\source\repos\Basic CSharp Exercises SimonHC\Basic CSharp Exercises SimonHC\obj\Debug\Basic CSharp Exercises SimonHC.pdb
